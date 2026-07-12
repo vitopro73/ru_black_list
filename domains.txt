@@ -54,3 +54,18 @@ googleusercontent.com
 doubleclick.net
 googleadservices.com
 googlesyndication.com
+
+#Домены Telegramtelegram.org
+web.telegram.org
+telegram.me
+t.me
+telegra.ph
+telesco.pe
+telegram-cdn.org
+tdesktop.com
+#Медиа / CDNcdn-telegram.org
+cdn1.telegram.org
+cdn2.telegram.org
+cdn3.telegram.org
+cdn4.telegram.org
+cdn5.telegram.org
