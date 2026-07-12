@@ -9,22 +9,48 @@ ac-fallback.codefusion.technology
 
 #youtube
 
+#Основные домены
 youtube.com
-googlevideo.com
+www.youtube.com
+m.youtube.com
 youtu.be
-ytimg.com
-ggpht.com
-googleusercontent.com
-nhacmp3youtube.com
-gstatic.com
-wide-youtube.l.google.com
-ytimg.l.google
-play.google.com
-1e100.net
-you.tube
+youtube-nocookie.com
+www.youtube-nocookie.com
+youtubeeducation.com
+youtubekids.com
 yt.be
+
+#API и сервисные
+youtubei.googleapis.com
+youtube.googleapis.com
+www.googleapis.com
 youtube-ui.l.google.com
-googleapis.com
-gvt1.com
-gvt2.com
-gvt3.com
+
+#Изображения, превью, аватары
+i.ytimg.com
+s.ytimg.com
+ytimg.com
+i9.ytimg.com
+yt3.ggpht.com
+yt4.ggpht.com
+lh3.googleusercontent.com
+ggpht.com
+
+#Сопутствующая инфраструктура Google (аутентификация, аналитика — без них YouTube не работает полноценно)
+google.com
+accounts.google.com
+accounts.youtube.com
+gstatic.com
+www.gstatic.com
+fonts.gstatic.com
+play.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+googleusercontent.com
+doubleclick.net
+googleadservices.com
+googlesyndication.com
